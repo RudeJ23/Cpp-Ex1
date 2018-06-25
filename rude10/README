@@ -1,0 +1,8 @@
+Joseph Rude, Assignment 10 4/21/18
+
+2. I modified some const& parameters in my personType class
+
+
+    Note:
+    
+    (I didn't have the >> overloaded in the previous assignment, however it was not necessary to add it because I had my read function instead. I would need to change my personType class in the future if I decided to not use a read function)
